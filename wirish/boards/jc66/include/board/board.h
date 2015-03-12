@@ -43,8 +43,8 @@
 #define BOARD_LED_PIN             0
 
 #define BOARD_NR_USARTS           3
-#define BOARD_USART1_TX_PIN       19
-#define BOARD_USART1_RX_PIN       20
+#define BOARD_USART1_TX_PIN       20
+#define BOARD_USART1_RX_PIN       21
 #define BOARD_USART2_TX_PIN       5
 #define BOARD_USART2_RX_PIN       6
 #define BOARD_USART3_TX_PIN       13
