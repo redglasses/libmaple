@@ -72,7 +72,7 @@
 #define BOARD_NJTRST_PIN          26
 
 #define BOARD_USB_DISC_DEV        GPIOB
-#define BOARD_USB_DISC_BIT        1
+#define BOARD_USB_DISC_BIT        2
 
 enum {
     PC13, PC14, PC15, PA0, PA1, PA2, PA3, PA4, PA5, PA6, PA7, PB0, PB1, PB10, PB11,
